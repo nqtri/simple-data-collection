@@ -3,7 +3,7 @@
 
 1st Guided Project on Dataquest: Exploring US Births Data
 
-The goal of this project is to collect relevant data, perform simple cleaning to prepare it for analysis, and analyze the cleaned data.
+<b>The goal of this project is to collect relevant data, perform simple cleaning to prepare it for analysis, and analyze the cleaned data.</b>
 
 This folder contains data behind the story [Some People Are Too Superstitious To Have A Baby On Friday The 13th](http://fivethirtyeight.com/features/some-people-are-too-superstitious-to-have-a-baby-on-friday-the-13th/).
 
